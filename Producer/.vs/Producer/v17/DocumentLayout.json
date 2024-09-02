@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KrishnaPraveshH\\dotnet-basics\\Kafka-demo\\Producer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7B998F-2DBA-40BA-98C6-FE3F1BAF9266}|Producer.csproj|c:\\users\\krishnapraveshh\\dotnet-basics\\kafka-demo\\producer\\kafkaproducerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7B998F-2DBA-40BA-98C6-FE3F1BAF9266}|Producer.csproj|solutionrelative:kafkaproducerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7B998F-2DBA-40BA-98C6-FE3F1BAF9266}|Producer.csproj|c:\\users\\krishnapraveshh\\dotnet-basics\\kafka-demo\\producer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7B998F-2DBA-40BA-98C6-FE3F1BAF9266}|Producer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B594AAE-F025-45D7-B9D8-EEB893850831}|..\\Consumer\\Consumer.csproj|c:\\users\\krishnapraveshh\\dotnet-basics\\kafka-demo\\consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B594AAE-F025-45D7-B9D8-EEB893850831}|..\\Consumer\\Consumer.csproj|c:\\users\\krishnapraveshh\\dotnet-basics\\kafka-demo\\consumer\\kafkaconsumerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KafkaConsumerConfig.cs",
+              "DocumentMoniker": "C:\\Users\\KrishnaPraveshH\\dotnet-basics\\Kafka-demo\\Consumer\\KafkaConsumerConfig.cs",
+              "RelativeDocumentMoniker": "..\\Consumer\\KafkaConsumerConfig.cs",
+              "ToolTip": "C:\\Users\\KrishnaPraveshH\\dotnet-basics\\Kafka-demo\\Consumer\\KafkaConsumerConfig.cs",
+              "RelativeToolTip": "..\\Consumer\\KafkaConsumerConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:28:22.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KrishnaPraveshH\\dotnet-basics\\Kafka-demo\\Consumer\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Consumer\\Program.cs",
+              "ToolTip": "C:\\Users\\KrishnaPraveshH\\dotnet-basics\\Kafka-demo\\Consumer\\Program.cs",
+              "RelativeToolTip": "..\\Consumer\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAYwC0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:28:00.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KafkaProducerConfig.cs",
+              "DocumentMoniker": "C:\\Users\\KrishnaPraveshH\\dotnet-basics\\Kafka-demo\\Producer\\KafkaProducerConfig.cs",
+              "RelativeDocumentMoniker": "KafkaProducerConfig.cs",
+              "ToolTip": "C:\\Users\\KrishnaPraveshH\\dotnet-basics\\Kafka-demo\\Producer\\KafkaProducerConfig.cs",
+              "RelativeToolTip": "KafkaProducerConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:20:34.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KrishnaPraveshH\\dotnet-basics\\Kafka-demo\\Producer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\KrishnaPraveshH\\dotnet-basics\\Kafka-demo\\Producer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:20:12.807Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 418,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
