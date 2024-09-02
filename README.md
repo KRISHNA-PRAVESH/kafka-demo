@@ -1,0 +1,1 @@
+Verify this medium: https://medium.com/@vndpal/how-to-produce-and-consume-kafka-messages-in-net-6-47d52307283f
